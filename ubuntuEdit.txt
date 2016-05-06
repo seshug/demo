@@ -1,2 +1,4 @@
 
 my first commit from ubantu git clone version-- 
+adding line 3
+adding line 4
